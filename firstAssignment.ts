@@ -24,3 +24,5 @@ for (let i = 0; i < Array1.length; i++) {
 }
 
 console.log(`The numbers absent in Array2 are: ${absentNumbers}`)
+
+//random

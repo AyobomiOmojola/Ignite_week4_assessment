@@ -23,3 +23,4 @@ while (i < S1.length || j < S2.length) {
 
 console.log(`The alternated merged characters from both strings is: ${output}`)
 
+//yet another random

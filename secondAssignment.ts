@@ -22,3 +22,6 @@ for (let i = 0; i < input.length; i++) {
 }
 
 console.log(`The unique characters in the input string are: ${result}`)
+
+
+// another random
